@@ -1,0 +1,46 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form{
+background-color:#3a5795;
+}
+
+.container-header{
+width:100%;
+padding:0px;
+}
+
+.form-control {
+
+font-size:10px;
+}
+
+.form-control{
+height: 26px;
+}
+
+.form-inline .form-control {
+    
+    width: 65%;
+}
+
+.form-inline .form-control {
+    width: 65%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
